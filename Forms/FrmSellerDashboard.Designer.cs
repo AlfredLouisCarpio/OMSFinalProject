@@ -121,7 +121,7 @@
             this.lblExi.Font = new System.Drawing.Font("Nirmala UI", 10.8F, System.Drawing.FontStyle.Bold);
             this.lblExi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
             this.lblExi.LinkColor = System.Drawing.Color.White;
-            this.lblExi.Location = new System.Drawing.Point(1117, 63);
+            this.lblExi.Location = new System.Drawing.Point(1112, 90);
             this.lblExi.Name = "lblExi";
             this.lblExi.Size = new System.Drawing.Size(44, 25);
             this.lblExi.TabIndex = 3;
@@ -136,7 +136,7 @@
             this.lblLO.Font = new System.Drawing.Font("Nirmala UI", 10.8F, System.Drawing.FontStyle.Bold);
             this.lblLO.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
             this.lblLO.LinkColor = System.Drawing.Color.White;
-            this.lblLO.Location = new System.Drawing.Point(1101, 28);
+            this.lblLO.Location = new System.Drawing.Point(1076, 49);
             this.lblLO.Name = "lblLO";
             this.lblLO.Size = new System.Drawing.Size(80, 25);
             this.lblLO.TabIndex = 2;

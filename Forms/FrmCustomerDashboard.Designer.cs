@@ -104,7 +104,7 @@
             this.lblExi.Font = new System.Drawing.Font("Nirmala UI", 10.8F, System.Drawing.FontStyle.Bold);
             this.lblExi.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(116)))), ((int)(((byte)(86)))), ((int)(((byte)(174)))));
             this.lblExi.LinkColor = System.Drawing.Color.White;
-            this.lblExi.Location = new System.Drawing.Point(396, 73);
+            this.lblExi.Location = new System.Drawing.Point(417, 73);
             this.lblExi.Name = "lblExi";
             this.lblExi.Size = new System.Drawing.Size(44, 25);
             this.lblExi.TabIndex = 2;
