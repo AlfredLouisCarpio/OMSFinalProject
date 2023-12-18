@@ -263,6 +263,11 @@ namespace OMSFinal.Forms
             new frmReports().Show();
             this.Hide();
         }
+
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
  }
  

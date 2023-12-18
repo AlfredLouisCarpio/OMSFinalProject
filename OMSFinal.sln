@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMSFinal", "OMSFinal.csproj", "{CFC05FED-D776-4405-AB49-0271ED1ABA60}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OMS", "..\OMS\OMS.vdproj", "{81808B3B-D534-4B9A-8AB3-D6E855F309FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{CFC05FED-D776-4405-AB49-0271ED1ABA60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFC05FED-D776-4405-AB49-0271ED1ABA60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFC05FED-D776-4405-AB49-0271ED1ABA60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81808B3B-D534-4B9A-8AB3-D6E855F309FE}.Debug|Any CPU.ActiveCfg = Debug
+		{81808B3B-D534-4B9A-8AB3-D6E855F309FE}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

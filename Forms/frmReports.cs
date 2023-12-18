@@ -114,7 +114,7 @@ namespace OMSFinal.Forms
                 {
                     connection.Open();
 
-                    string query = "SELECT OrderID, CustomerName, ProductID, Quantity FROM dbo.Orders WHERE CustomerName LIKE @CustomerName";
+                    string query = "SELECT OrderID, CustomerName, ProductID, Quantity, OrderStatus FROM dbo.Orders WHERE CustomerName LIKE @CustomerName";
                     using (SqlCommand cmd = new SqlCommand(query, connection))
                     {
                         cmd.Parameters.AddWithValue("@CustomerName", "%" + textBox1.Text + "%");
